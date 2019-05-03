@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -136,7 +136,7 @@ projects:
       Some side projects that I did during the years
 
     assignments:
-      - title: PASSION PARADISE ADVENTURES
+      - title: Passion Paradise Adventures
         link: "http://www.passionparadise.co/"
         tagline: "A responsive website to help promote premier snorkelling & diving excursions to Catalina Island."
 
@@ -158,11 +158,11 @@ skills:
       - name: Database (SQL Server, MySQL, MongoDB, Redis)
         level: 50%
 
-      - name: Cloud Services (Azure)
-        level: 80%
-
       - name: Source control management tools (TFS / Git / SVN)
         level: 98%
+
+      - name: Cloud Services (Azure)
+        level: 80%
 
       - name: Agile methodology
         level: 70%
