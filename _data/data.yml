@@ -156,16 +156,16 @@ skills:
         level: 80%
 
       - name: Database (SQL Server, MySQL, MongoDB, Redis)
-        level: 50%
+        level: 60%
 
       - name: Cloud Computing Platform & Services (Azure)
         level: 80%
 
-      - name: Source control management (TFS, Git, SVN)
+      - name: Source control management (TFS, Git)
         level: 98%
 
       - name: Agile methodology
-        level: 70%
+        level: 80%
 
 
 footer: >
