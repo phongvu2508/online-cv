@@ -35,7 +35,7 @@ sidebar:
       - item: Basketball
         link:
 
-      - item: Skiing
+      - item: Photography
         link:
 
       - item: Gaming
@@ -63,7 +63,6 @@ experiences:
       time: 2018 - Present
       company: VelocityEHS - Toronto, ON
       details: |
-        Describe your role here.
 
           - Contribute in building the new version of market-leading EHS platform
           - Involve in high-level technical discussion to define the road-map for the product
@@ -76,7 +75,6 @@ experiences:
       time: 2016 - 2018
       company: Restaff - House Of Norway - Hochiminh, Vietnam
       details: |
-        Describe your role here.
 
           - Proactive Leader of different teams supporting US/Singapore/Norway clients at the same time
           - Working with several industries like IoT, eCommerce, Housing, etc...
@@ -91,7 +89,6 @@ experiences:
       time: 2015 - 2015
       company: Harvey Nash (UK) - Hochiminh, Vietnam
       details: |
-        Describe your role here.
 
           - Training to prepare for the upcoming project
           - However, the project ends up delay, so I decided to move on to new opportunities
@@ -102,7 +99,6 @@ experiences:
       time: 2009 - 2015
       company: Promatica AS Norway - Hochiminh, Vietnam
       details: |
-        Describe your role here.
 
           - Design, code, and support software solutions that can easily be scaled depending on client needs
           - Involved in high-level technical discussion to define the road-map for the product
@@ -115,7 +111,6 @@ experiences:
       time: 2008 - 2009
       company: TMA Solutions - Hochiminh, Vietnam
       details: |
-        Describe your role here.
 
           - Develop new features as well as carry on with bug fixing and unit testing for existed features of the project
           - Work with a team of IT professionals to develop a proprietary, secure, and web-accessible database
@@ -128,7 +123,6 @@ experiences:
       time: 2007 - 2008
       company: INDIVIDUAL SYSTEMS (JPN) - Hochiminh, Vietnam
       details: |
-        Describe your role here.
 
           - Write code to maintain and enhance ancient systems written in COBOL
           - Involve in manual testing phase to make sure all release was a success in timely fashion
@@ -144,11 +138,11 @@ projects:
     assignments:
       - title: PASSION PARADISE ADVENTURES
         link: "http://www.passionparadise.co/"
-        tagline: "A responsive website to help startups promote and market their services."
+        tagline: "A responsive website to help promote premier snorkelling & diving excursions to Catalina Island."
 
       - title: Findtouch
         link: "https://www.findtouch.com/"
-        tagline: "An old website for massage therapists community."
+        tagline: "A website for massage therapists community."
 
 
 skills:
@@ -161,17 +155,17 @@ skills:
       - name: JavaScript (React, NodeJS, AngularJS)
         level: 80%
 
-      - name: SQL Server, MySQL, MongoDB, Redis
+      - name: Database (SQL Server, MySQL, MongoDB, Redis)
         level: 50%
 
-      - name: Agile methodology
-        level: 70%
+      - name: Cloud Services (Azure)
+        level: 80%
 
       - name: Source control management tools (TFS / Git / SVN)
         level: 98%
 
-      - name: Azure
-        level: 80%
+      - name: Agile methodology
+        level: 70%
 
 
 footer: >
