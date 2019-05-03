@@ -7,194 +7,172 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Phong Vu
+    tagline: Software Development Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: phongvu2508@gmail.com
+    phone: 647 561 6285
+    website: phongvu.dev #do not add http://
+    linkedin: phong-vu-software-developer
+    github: phongvu2508
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Phong_Vu'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Vietnamese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Basketball
         link:
 
-      - item: Snowboarding
+      - item: Skiing
         link:
 
-      - item: Cooking
+      - item: Gaming
         link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Software Engineer with over 10 years of industry experience on various technologies.
 
-      Second paragraph if required.
+      Good knowledge in both technical and management with an ability to provide full cycle development with Agile software development life cycle.
+
+      Fluent in English communication, both in written and verbal.
+
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Bachelor in Computer Science
+      university: Ho Chi Minh City University of Foreign Languages and Information Technology
+      time: 2003 - 2007
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Software Developer
+      time: 2018 - Present
+      company: VelocityEHS - Toronto, ON
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here.
 
-          - Bullet point
-          - Bullet point
+          - Contribute in building the new version of market-leading EHS platform
+          - Involve in high-level technical discussion to define the road-map for the product
+          - Research, Develop application prototypes and plan ahead technical stack for the project
+          - Participated in full cycle development following Scrum methodology
+          - Skill Set Utilized (.NET core, ASP.NET core, C#, React, Typescript, MobX State Tree, Microsoft SQL)
+
+
+    - role: Senior Software Engineer - Technical Leader
+      time: 2016 - 2018
+      company: Restaff - House Of Norway - Hochiminh, Vietnam
+      details: |
+        Describe your role here.
+
+          - Proactive Leader of different teams supporting US/Singapore/Norway clients at the same time
+          - Working with several industries like IoT, eCommerce, Housing, etc...
+          - Research and plan ahead technical stack for the project
+          - Developed application prototypes and participated in client meetings
+          - Implement new features with full cycle development following Scrum methodology
+          - Successfully sign 4 long-term contracts with 4 new customers after following up with projects since the beginning
+          - Skill Set Utilized(.NET core, ASP.NET core, C#, NodeJS, AngularJS, React, php, Laravel, Parse Platform (Facebook Parse server), Html, css, Microsoft SQL, MySQL, MongoDB, Redis, Eclipse Mosquitto, Ponte, MQTT/AMQP)
+
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2015 - 2015
+      company: Harvey Nash (UK) - Hochiminh, Vietnam
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here.
 
-          - Bullet point
-          - Bullet point
+          - Training to prepare for the upcoming project
+          - However, the project ends up delay, so I decided to move on to new opportunities
+          - Skill Set Utilized (C#, ASP.NET, EF, Javascript, Html, css, Microsoft SQL)
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: Senior Software Engineer
+      time: 2009 - 2015
+      company: Promatica AS Norway - Hochiminh, Vietnam
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here.
 
-          - Bullet point
-          - Bullet point
+          - Design, code, and support software solutions that can easily be scaled depending on client needs
+          - Involved in high-level technical discussion to define the road-map for the product
+          - Acknowledged as a key member of the project and promoted to lead back-end team with 4 members since 2013
+          - Mentor new team members to help them get familiar with the product as well as up to speed with daily working routine
+          - One of the first members of the back-end team, successfully transfers all the back-end workload from Norway to Vietnam
+          - Skill Set Utilized (C#, WCF, WPF, EF, Microsoft SQL, Xymphonic Transactions)
+
+    - role: Software Engineer
+      time: 2008 - 2009
+      company: TMA Solutions - Hochiminh, Vietnam
+      details: |
+        Describe your role here.
+
+          - Develop new features as well as carry on with bug fixing and unit testing for existed features of the project
+          - Work with a team of IT professionals to develop a proprietary, secure, and web-accessible database
+          - Maintain product quality by carrying out reviews, performing continual tests, analyzing feedback, and managing software integration
+          - One of the first members of the company involved in pilot projects for iOS development at the time
+          - Skill Set Utilized (C#, ASP.NET, Javascript, Html, css, Python, Objective C, EF, Microsoft SQL, PostgreSQL, SQLite)
+
+
+    - role: Junior Software Engineer
+      time: 2007 - 2008
+      company: INDIVIDUAL SYSTEMS (JPN) - Hochiminh, Vietnam
+      details: |
+        Describe your role here.
+
+          - Write code to maintain and enhance ancient systems written in COBOL
+          - Involve in manual testing phase to make sure all release was a success in timely fashion
+          - Report directly to project manager regarding project status as well as enhancement suggestions
+          - Skill Set Utilized (COBOL, PRO COBOL)
+
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some side projects that I did during the years
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: PASSION PARADISE ADVENTURES
+        link: "http://www.passionparadise.co/"
+        tagline: "A responsive website to help startups promote and market their services."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Findtouch
+        link: "https://www.findtouch.com/"
+        tagline: "An old website for massage therapists community."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Microsoft .NET (C#, ASP.NET, .netcore)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: JavaScript (React, NodeJS, AngularJS)
+        level: 80%
+
+      - name: SQL Server, MySQL, MongoDB, Redis
+        level: 50%
+
+      - name: Agile methodology
+        level: 70%
+
+      - name: Source control management tools (TFS / Git / SVN)
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Azure
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
