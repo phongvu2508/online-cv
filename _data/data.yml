@@ -161,7 +161,7 @@ skills:
       - name: Cloud Computing Platform & Services (Azure)
         level: 80%
 
-      - name: Source control management tools (TFS / Git / SVN)
+      - name: Source control management (TFS, Git, SVN)
         level: 98%
 
       - name: Agile methodology
